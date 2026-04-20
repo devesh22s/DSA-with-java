@@ -4,7 +4,7 @@ package Java.BinarySearch;
 public class ceiling {
     public static void main(String[] args) {
         int [] arr = {2,3,5,9,14,16,18};
-        int target = 20;
+        int target = 10;
         System.out.println(ceiling_method(arr, target));        
     }
    // return the index: smallest number >= target
