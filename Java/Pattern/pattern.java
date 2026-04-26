@@ -54,7 +54,7 @@ public class pattern{
             }
             System.out.println();
 
-        }
+        }  
     }
     // 1-4
     private static void print1and2(int m){
